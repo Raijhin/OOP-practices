@@ -1,0 +1,55 @@
+
+package hello.myfirstproject;
+public class MyFirstProject {
+
+    public static void main(String[] args) {
+        Question1 qs1 = new Question1();
+        qs1.info();
+        qs1.input();
+        qs1.output();
+        
+        Question2 qs2 = new Question2();
+        qs2.info();
+        qs2.input();
+        qs2.output();
+        
+        Question3 qs3 = new Question3();
+        qs3.info();
+        qs3.input();
+        qs3.output();
+        
+        Question4 qs4 = new Question4();
+        qs4.info();
+        qs4.input();
+        qs4.output();
+        
+        Question5 qs5 = new Question5();
+        qs5.info();
+        qs5.input();
+        qs5.output();
+        
+        Question6 qs6 = new Question6();
+        qs6.info();
+        qs6.run();
+        
+        Question7 qs7 = new Question7();
+        qs7.info();
+        qs7.input();
+        qs7.output();
+        
+        Question8 qs8 = new Question8();
+        qs8.info();
+        qs8.input();
+        qs8.output();
+        
+        Question9 qs9 = new Question9();
+        qs9.info();
+        qs9.input();
+        qs9.output();
+        
+        Question10 qs10 = new Question10();
+        qs10.info();
+        qs10.input();
+        qs10.output();
+    }   
+}
